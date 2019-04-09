@@ -2,4 +2,4 @@
 Pentesting for Wordpress 4.2 for Cybersecurity Week 7 &amp; 8 Assignment
 
 
-![Screenshot](Authenticated Shortcode Tags XSS.gif)
+![Screenshot](Authenticated_Shortcode_Tags_XSS.gif)
