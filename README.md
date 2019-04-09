@@ -24,7 +24,7 @@ Version: 4.2
 Vulnerability: XSS  
 Version: 4.2  
 Source:[Code](https://github.com/WordPress/WordPress/commit/f72b21af23da6b6d54208e5c1d65ececdaa109c8)  
-![Authenticated Shortcode Tags XSS](https://github.com/atsui4688/Cybersecurity_Week_78/blob/master/Authenticated%20Shortcode%20Tags%20XSS.gif)    
+![Authenticated Shortcode Tags XSS](https://github.com/atsui4688/Cybersecurity_Week_7-8/blob/master/Authenticated%20Shortcode%20Tags%20XSS.gif)    
 
 ## **Notes**  
 The `rm -rf public` command does not work on Windows 10 for me
